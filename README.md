@@ -1,2 +1,2 @@
 # SneakHead
--> Javascript Project
+https://sneakoo.netlify.app
